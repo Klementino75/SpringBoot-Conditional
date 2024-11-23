@@ -9,5 +9,4 @@ class SpringBootConditionalApplicationTests {
     @Test
     void contextLoads() {
     }
-
 }
