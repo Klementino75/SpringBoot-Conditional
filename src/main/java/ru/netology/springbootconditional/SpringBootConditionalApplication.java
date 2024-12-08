@@ -9,5 +9,4 @@ public class SpringBootConditionalApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringBootConditionalApplication.class, args);
     }
-
 }
